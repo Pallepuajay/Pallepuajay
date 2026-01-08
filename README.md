@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi 👋, I'm Pallepu Ajay
 
-<!--
-**Pallepuajay/Pallepuajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Java Full Stack Development & DSA**
+- 💼 **Java Full Stack Intern** (4 months – Currently Ongoing)
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 📫 How to reach me: **pallepuajay123@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-pallepu-9bb314278/
+- 🧑‍💻 GitHub: https://github.com/PallepuAjay
+
+---
+
+### 🛠️ Languages & Tools:
+☕ Java &nbsp;&nbsp;
+🐍 Python &nbsp;&nbsp;
+🟨 JavaScript &nbsp;&nbsp;
+🌐 HTML &nbsp;&nbsp;
+🎨 CSS &nbsp;&nbsp;
+⚛️ React &nbsp;&nbsp;
+🌱 Spring Boot &nbsp;&nbsp;
+🛢️ MySQL &nbsp;&nbsp;
+🔧 Git &nbsp;&nbsp;
+🐳 Docker &nbsp;&nbsp;
+📊 DSA
