@@ -2,7 +2,7 @@
 
 An aspiring Java Full Stack Developer
 
-- 🌱 Currently learning **Java Full Stack Development & DSA**
+- 🌱📊 Currently practicing Data Structures & Algorithms (DSA)
 - 💼 **Java Full Stack Intern** (4 months – Currently Ongoing)
 - 🧠 Strong interest in **Data Structures & Algorithms**
 - 📫 How to reach me: **pallepuajay123@gmail.com**
